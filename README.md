@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lsspkk
 - 👀 I’m interested in Saving the Planet
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Any React/Python/Java project that would have a positive impact in Environmental issues, lik the Climate Change.
+- 💞️ I’m looking to collaborate on Any React/Python/Java project that would have a positive impact in Environmental issues.
 - 📫 How to reach me: ..
 
 <!---
